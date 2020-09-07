@@ -172,7 +172,7 @@
                                 </subviews>
                             </stackView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ibP-cv-4yW">
-                                <rect key="frame" x="20" y="757" width="374" height="51"/>
+                                <rect key="frame" x="20" y="741" width="374" height="51"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="51" id="DIg-OQ-qPx"/>
@@ -200,7 +200,7 @@
                             <constraint firstItem="OwB-Gr-By2" firstAttribute="top" secondItem="HHh-MX-RY3" secondAttribute="top" id="CB9-ic-TOU"/>
                             <constraint firstAttribute="trailing" secondItem="OwB-Gr-By2" secondAttribute="trailing" id="Duz-Pk-P7x"/>
                             <constraint firstAttribute="bottom" secondItem="OwB-Gr-By2" secondAttribute="bottom" id="FbL-JN-RIc"/>
-                            <constraint firstItem="ibP-cv-4yW" firstAttribute="bottom" secondItem="uhj-wm-fzz" secondAttribute="bottom" id="Qov-E4-bpc"/>
+                            <constraint firstItem="ibP-cv-4yW" firstAttribute="bottom" secondItem="OwB-Gr-By2" secondAttribute="bottom" constant="-50" id="Qov-E4-bpc"/>
                             <constraint firstItem="OwB-Gr-By2" firstAttribute="leading" secondItem="HHh-MX-RY3" secondAttribute="leading" id="Rxz-bN-DCX"/>
                             <constraint firstItem="ser-cU-ZTK" firstAttribute="centerX" secondItem="HHh-MX-RY3" secondAttribute="centerX" id="SGd-QW-33z"/>
                         </constraints>
